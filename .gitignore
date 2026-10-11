@@ -4,3 +4,7 @@ Mimic-3.zip
 mlruns/
 __pycache__/
 .ipynb_checkpoints/
+*.csv
+master.csv
+mimic-demo-1.4/
+.ipynb_checkpoints/
