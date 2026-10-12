@@ -8,3 +8,7 @@ __pycache__/
 master.csv
 mimic-demo-1.4/
 .ipynb_checkpoints/
+
+# Auto-generated profiling reports (derived from MIMIC; keep out of the repo)
+reports/profiling/
+*_profile.html
